@@ -14,6 +14,8 @@ Dataset 2 : Breast Cancer Dataset https://archive.ics.uci.edu/ml/datasets/Breast
 
 Dataset 3 : Credit Card Fraud Detection Data https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+*Note* :  Due to the large size, the pre-processed dataset was not uploaded into this repository for dataset 3
+
 Code for all the dataset Jupyter notebooks (Python) are listed below:
 
 bank_dataset_1.ipynb : The implementation using the Bank Marketing dataset
