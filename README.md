@@ -1,5 +1,5 @@
-# CE888-DS-Project
-Data Science and Decision Making Project 
+# CE888  Data Science and Decision Making Project
+
 This is my University of Essex MSc. Artificial Intelligence, CE888-7-SP : Data Science and Decision Making, Under the guidance of Dr Ana Matran-Fernandez. 
 Thank you so much Dr Ana Matran-Fernandez and team for all the support.
 Hence, This project is  in-process and code is not accurate. I will update it on regualr basis to improve the code stability and accuracy. 
