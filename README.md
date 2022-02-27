@@ -19,7 +19,9 @@ Dataset 3 : Credit Card Fraud Detection Data https://www.kaggle.com/mlg-ulb/cred
 Code for all the dataset Jupyter notebooks (Python) are listed below:
 
 bank_dataset_1.ipynb : The implementation using the Bank Marketing dataset
+
 breast_cancer_dataset_2.ipynb : The implementation using the Breast Cancer dataset
+
 creditcard_details_dataset_3.ipynb : The implementation using Credit Card Fraud Detection dataset
 
-Please find the Report.pdf for initial proposal of the project
+Please find the DS Report_Chandan_Das_2111429 for initial proposal of the project
