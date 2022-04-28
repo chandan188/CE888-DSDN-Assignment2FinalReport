@@ -24,4 +24,6 @@ breast_cancer_dataset_2.ipynb : The implementation using the Breast Cancer datas
 
 creditcard_details_dataset_3.ipynb : The implementation using Credit Card Fraud Detection dataset
 
-Please find the DS Report_Chandan_Das_2111429 for initial proposal of the project
+Please find the DS Report.pdf for initial proposal of the project.
+
+Note: ** I have reexecuted all the code. Dataset3 is taking more time I will upload latest one once it executed succefully.
